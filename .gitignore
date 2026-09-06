@@ -24,3 +24,6 @@ data/*.csv
 
 # Logs
 *.log
+
+# report
+reports/
